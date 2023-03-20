@@ -1,0 +1,12 @@
+names:
+- person
+- knife
+- scissor
+- hammer
+- pistol
+- heavygun
+nc: 6
+
+test: wpn_dts_v3/test/images
+train: wpn_dts_v3/train/images
+val: wpn_dts_v3/valid/images
